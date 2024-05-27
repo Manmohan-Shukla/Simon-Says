@@ -8,7 +8,7 @@ How to Play:-
 4-> Once the sequence is complete, it's your turn to repeat the pattern by clicking the buttons in the same order they lit up.
 5-> If you succeed, the sequence will get longer. If you make a mistake, the game will end and your score will be displayed.
 
-Technologies Used
+Technologies Used:-
 HTML
 CSS
 JavaScript
